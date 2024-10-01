@@ -1,0 +1,34 @@
++ sKing hNine dTen hEight dFive dEight sTen hSix sSeven cAce hKing cQueen cSeven hAce dSix sFive sSix cTen
+/ Welcome to BlackJackTrainer. In this lesson we'll be looking at how to make decisions based on your cards. We'll also learn the rules and some basics.
+/ In a casino, each table will use  between 1 and 8 standard 52 card decks. This trainer will use only a single deck, which provides the least advantage to the dealer.
+/ Here's an example of the initial deal
+/ In blackjack, you and the dealer are each dealt an initial hand with 2 cards.
+/ To win a blackjack hand, the value of your cards added together must be higher than the dealer’s, but also not greater than 21.
+/ Number cards are all worth their displayed value, face cards are worth 10, and an Ace is either worth 11, or 1. Which we’ll explain in a minute.
+/ Once cards are dealt, you can decide whether to hit, which means drawing another card, or stand, meaning you are comfortable with your hand and are done drawing for this turn.
+/ If hitting causes your value to exceed 21, that is called a bust, which means you lose the hand.
+/ In this scenario, you've been dealt a pretty great hand- 20 off the bat!
+/ Here, you will not want to draw any extra cards. Click stand to signal that you are done taking cards lock stand
+/ In a casino, every player will either hit or stand before the dealer reveals their second card. This second card is called the hole card.
+/ In this case the hole card was a nine.
+/ This brings the dealer's total to 17.
+/ In most tables as well as this training, the dealer must stand when they achieve anything above a 16, otherwise they must hit.
+/ In this case the dealer would stand and any players with a hand over 17 win their bet, any with exactly 17 will get their bets returned, and anyone under 17 loses their bet.
+* shuffle
+/ In this case you have a pretty terrible hand. You should hit. lock hit
+/ This is a bust on your end. Unfortunately, that means you lose your bet.
+/ The dealer can also bust, in which case you would win your bet, unless you also busted.
+/ Now we get to the name of the game. When the player or dealer is dealt a natural two-card 21, it is considered a blackjack.
+/ Blackjack is a special card state that beats all other hands, including 21s gained after the initial deal.
+* shuffle
+/ The suit doesn't matter for a blackjack. All you need is to have a card total of 21 off of your first two cards. This means you have an Ace, and either a 10 or a face card.
+/ Some casinos pay 3:2 when you get a blackjack, however this is generally for tables where the house is dealing from many decks at once.
+* shuffle
+/ Finally lets talk about the Ace
+/ The ace card is special, because it can either act as an 11 or a 1, whichever is better for the hand.
+/ Currently, you have an ace and a five. In this scenario the ace acts as an 11, because a total of 16 is better than a total of 6.
+/ However, let's say you were to hit. lock hit
+/ Now your ace acts as a 1, because 10 + 5 + 11 = 26, which is a bust, so a 1 is better for your hand.
+/ That is it for the first level of BlackjackTrainer. In level 2, you’ll learn how to split.
+* finish
+

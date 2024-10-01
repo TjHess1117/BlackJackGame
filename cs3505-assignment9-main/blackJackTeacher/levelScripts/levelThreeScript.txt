@@ -1,0 +1,33 @@
++ hTen dTen dSeven sFive cSeven cFive cQueen sJack hSix dFive cTen sTen hSeven hFive cEight sSeven sAce
+/ In this lesson, you will learn the basics of playing around the dealer's hand.
+/ Remember in Blackjack, the only hand you have to beat is the dealers, so whatever they have in their hand should influence your decision to hit or stand.
+/ The dealer's cards matter the most when dealing with what is called a "hard hand".
+/ In Blackjack, there are hard and soft hands. This has to do with the Ace acting as either an 11, or 1.
+/ A hand that has an Ace is considered soft, because its value can change. While a hand without one is hard, because its value is set.
+/ We'll start with hard hands.
+/ Here you have a hard total of 17. If you are dealt a hard 17 or higher, you don't even need to consider the dealers cards, you should always stand. lock stand
+/ The dealer busted, and you won the hand.
+* shuffle
+/ There's a similar situation on the other end of the spectrum.
+/ if you have a hard total of 11 or below, you should always hit
+/ Here's where the dealers cards come into play, and where you have to make a decision
+/ This scenario is a little tougher, you have a 15, and the dealer is starting with a six.
+/ Here, your best option is actually to stand, and that would still be the case if you had anywhere from a 12, to a 17.
+* shuffle
+/ However, what should you do here?
+/ A seven is pretty close to a 6, should you stand?
+/ If you guessed stand, the correct answer is actually to hit.
+/ In fact, if you have a hard total of 12 and 16 and the dealer's first card is a seven or above, you should hit.
+/ You may be asking yourself, How on earth am I supposed to know all of this?
+/ Due to Blackjack's formulaic nature, there is actually a statistically best decision to make on every single delt hand.
+/ These decisions are called "basic strategy" and can be found on the internet in a table form.
+/ Knowing basic strategy increases your odds of winning significantly, it cuts the casinos advantage all the way down to 0.5%.
+/ Basic strategy may seem daunting to learn, but there are some patterns like the ones demonstrated previously that you can incorporate into your game immediately.
+/ Heres a special hand you should be aware of.
+* shuffle
+/ Here you have a 12, and the dealer has a one.
+/ Earlier we said you should hit if the dealer has above a six and you have 12, so then should you stay here?
+/ The answer is unintuitively no, you should hit.
+/ If you have a hard 12, you should only stay if the dealer has a 4, 5, or a 6.
+/ Don't worry, not all hands are affected this much by the dealer.
+* finish

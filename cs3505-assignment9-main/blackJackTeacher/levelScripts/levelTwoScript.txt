@@ -1,0 +1,20 @@
++ hEight sTwo sEight cTen hQueen dSeven dFive sFive
+/ There's one more action you can take as the player we haven’t yet covered.
+/ Let's talk about splits.
+/ If you are dealt two cards of the same value, you may choose to split.
+/ A split divides your hand into two one card hands that you can play off of.
+/ It’s essentially like becoming two separate players, you hit until you’re ready to stand on one hand, then you move onto the next.
+/ Here you received two eights. You should always split on eights, because a 16 is not a good final hand against the dealer.
+/ When you split, you will have to pay to play on that second hand. You have to match your original bet to play the additional hand.
+/ Go ahead and split your hand. lock split
+/ Some casinos allow resplitting, meaning you would be permitted to split to a third hand if you got another 8.
+/ This rule is dependent on the table though, and at ours, you may only split once
+/ Both of these hands are passable. You could try to hit on the second hand, but your odds aren't great.
+/ You should stand on the first hand (the one to the right). lock stand
+/ You should stand on the second as well. lock stand
+/ In this scenario, your 1st hand wins and your second hand loses.
+/ In a casino, you would lose the bet on the losing hand, and win the bet on the winning hand.
+/ The only other hard and fast rule around splits is to always split on aces. Your total if you kept hitting on the two ace hand would be only 12.
+/ Which puts you in a horrible position with 16 cards that could cause you to go bust still in the deck.
+/ There's lots of special scenarios where you should or shouldn’t split, but for now, just remember to always split on eights and aces!
+* finish
